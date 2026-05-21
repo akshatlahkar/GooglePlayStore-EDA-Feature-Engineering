@@ -1,7 +1,7 @@
-# GooglePlayStore-EDA-Feature-Engineering
+# Google Play Store — EDA & Feature Engineering
 
--
-Analyzed 10,800+ Google Play Store apps using Python, pandas, and seaborn. Handled messy real-world data — mixed units, corrupt rows, embedded special characters — then explored category distributions, install patterns, and rating behavior to surface actionable market insights.
+An analysis of the Google Play Store dataset exploring app distribution, install patterns, and rating behavior across categories. The dataset is messy by design — mixed units, special characters, corrupt rows — so a significant portion of the work went into getting it into a usable state before any actual analysis.
+
 ---
 
 ## Dataset
